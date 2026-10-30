@@ -73,19 +73,7 @@ The application will open in your web browser.
 4. The model generates a structured JSON report.
 5. Streamlit displays the risk level, summary, warning signs, recommended actions, and limitations.
 
-## Example Input
-```text
-Congratulations! You have won ₹50,000.
-Pay ₹500 immediately to claim your prize.
-```
 
-## Expected Results
-The application may identify:
-- An unexpected prize claim.
-- A request for an upfront payment.
-- Pressure to pay immediately.
-
-The final assessment depends on the AI model's analysis.
 
 ## Advantages
 - Uses a locally running AI model.
