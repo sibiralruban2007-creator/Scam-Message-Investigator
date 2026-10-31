@@ -99,5 +99,3 @@ The application will open in your web browser.
 ## Conclusion
 Scam Message Investigator demonstrates how local Large Language Models can help users identify potential scam indicators in suspicious messages. It provides a risk assessment, explanations, and safety recommendations to support informed decisions.
 
-## Disclaimer
-This project is intended for educational and digital safety awareness purposes. AI-generated results are not definitive proof that a message is fraudulent or legitimate.
